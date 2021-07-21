@@ -10,7 +10,8 @@ namespace projeto_teste
             Console.WriteLine("Bye");
             Console.WriteLine("Alt");
 
-            Console.WriteLine("Teste");
+            Console.WriteLine();
+            Console.WriteLine("Tchau");
         }
     }
 }
